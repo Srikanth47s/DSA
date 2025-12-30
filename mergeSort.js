@@ -28,5 +28,4 @@ function merge(left,rigth){
 }
 
 let sortedArray = sortArray(arr);
-
 console.log(sortedArray);
